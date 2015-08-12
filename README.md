@@ -1,2 +1,4 @@
-# mllib-utils
-Some wrapper utilities for working with Spark MLLib.
+mllib-utils
+============
+Niceties for working with Spark's MLLib.
+
